@@ -53,7 +53,7 @@ endmodule
 ## HALF SUBTRACTOR:
 ### Truthtable:
 
-<img height=60% width=70% src="https://user-images.githubusercontent.com/119559694/233029895-1abbf4d0-3a0f-4f0b-ac01-34b076038958.png">
+![photo](https://user-images.githubusercontent.com/119559694/233029895-1abbf4d0-3a0f-4f0b-ac01-34b076038958.png)
 
 ###  RTL realization:
 
