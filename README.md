@@ -57,24 +57,24 @@ endmodule
 
 ###  RTL realization:
 
-<img height=60% width=70% src="https://user-images.githubusercontent.com/119559694/233030045-b449fae3-a076-43d8-9d96-f71692b5d930.png">
+![photo](https://user-images.githubusercontent.com/119559694/233030045-b449fae3-a076-43d8-9d96-f71692b5d930.png)
 
 ### Timing diagram:
 
-<img height=60% width=70% src="https://user-images.githubusercontent.com/119559694/233030197-40df1d4a-5a8d-4a39-a033-8456bac16938.png">
+![photo](https://user-images.githubusercontent.com/119559694/233030197-40df1d4a-5a8d-4a39-a033-8456bac16938.png)
 
 ## FULL SUBTRACTOR:
 ### Truthtable:
 
-<img height=100% width=60% src= "https://user-images.githubusercontent.com/119559694/233030800-08c5273a-8843-4ca3-890a-3681ba271c6c.png">
+![photo](https://user-images.githubusercontent.com/119559694/233030800-08c5273a-8843-4ca3-890a-3681ba271c6c.png)
 
 ### RTL realization:
 
-<img height=60% width=70% src="https://user-images.githubusercontent.com/119559694/233031245-c84323cd-893d-4920-8ea5-164bd68631b0.png">
+![photo](https://user-images.githubusercontent.com/119559694/233031245-c84323cd-893d-4920-8ea5-164bd68631b0.png)
 
 ### Timing diagram:
 
-<img height=60% width=70% src="https://user-images.githubusercontent.com/119559694/233031432-95c106c4-1103-4767-a381-16b81dfcb556.png">
+![photo](https://user-images.githubusercontent.com/119559694/233031432-95c106c4-1103-4767-a381-16b81dfcb556.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
